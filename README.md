@@ -1,6 +1,6 @@
-## Documentation of this repository
+## Repository documentation
 
-This is a simple project about dropdown in JavaScript. It was developed with HTML, CSS and JavaScript. Project created during my Web Development studies. The design is responsive and during development the concept of desktop first was used.
+This project is a dropdown menu and was developed with JavaScript. Project created during my Web Development studies.
 
 
-<img src="/img/readme-image.png">
+<img src="/img/readme.png">
